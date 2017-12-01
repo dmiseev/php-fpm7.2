@@ -1,0 +1,13 @@
+language: php
+php:
+  - 7.2
+
+services:
+  - docker
+
+install:
+  - docker build -t php-fpm .
+  - docker run -d -p 127.0.0.1:9000:9000 --name php-fpm php-fpm
+
+script:
+  - docker ps | grep -q php-fpm
