@@ -3,11 +3,12 @@
 [![Build Status](https://travis-ci.com/dmiseev/php-fpm7.2.svg?branch=master)](https://travis-ci.com/dmiseev/php-fpm7.2)
 
  **Helpful PHP-FPM image from official ubuntu:xenial**
+ 
  >
  > PHP-FPM version - 7.2.31
-
+ >
  > DateTime - Europe/Kiev
-
+ >
  > Composer installed globally
 
 ## Tags
