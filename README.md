@@ -37,6 +37,7 @@
  * php7.2-memcached
  * php7.2-mongodb
  * php7.2-bcmath
+ * php7.2-zip
  * php7.2-imagick (`new`)
 
 ### In addition
